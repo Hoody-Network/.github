@@ -1,4 +1,4 @@
-![Hoody at home, tinkering with servers and proxies and whatnot](banner.png)
+![Hoody at home, tinkering with servers and proxies and whatnot](https://github.com/Hoody-Network/.github/blob/main/profile/banner.png?raw=true)
 
 ## Hoody Network
 This is where all the ~engineering~ magic of Hoody happens 🪄
