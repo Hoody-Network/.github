@@ -1,2 +1,2 @@
 # .github
-Profile repo of the organization
+Community health files of the organization.
