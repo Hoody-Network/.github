@@ -4,7 +4,7 @@
 This is where all the ~engineering~ magic of Hoody happens 🪄
 
 ### 👉 Check what we're all about
-Hoody is an all-in-one bulletproof privacy solution for the web. Curious? Visit our [website](https://hoody.com) for more details!
+Hoody is an all-in-one bulletproof privacy solution for the web. Curious? Visit [hoody.com](https://hoody.com) for more details!
 
 ### 🛡️ Help us make privacy bulletproof
 Interested in finding and building new ways to keep your digital identity totally private? Join us now! Send us an e-mail at <social@hoody.com> and we'll get back to you as soon as we can!
