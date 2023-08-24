@@ -10,4 +10,7 @@ Hoody is an all-in-one bulletproof privacy solution for the web. Curious? Visit 
 Interested in finding and building new ways to keep your digital identity totally private? Join us now! Send us an e-mail at <social@hoody.com> and we'll get back to you as soon as we can!
 
 ### 🔮 See into our future
-Good things are coming soon! We're finalizing our roadmap for Q4 2022, and we'll post it soon.
+Good things are coming soon! We're finalizing our roadmap for 2023-2024, and we'll post it soon.
+
+### 📑 Open Source Initiative
+Hoody Beta is currently NOT open-source, we are commited to make all repositories public over time, stay tuned. 
